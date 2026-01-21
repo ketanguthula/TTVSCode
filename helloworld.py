@@ -12,4 +12,4 @@ def get_random_greeting():
     return random.choice(greetings)
 
 print(get_random_greeting())
-print("Learning about branches today!")
+print("Testing merging!")
